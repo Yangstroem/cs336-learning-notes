@@ -1,0 +1,23 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Obsidian local workspace state
+.obsidian/workspace*.json
+.obsidian/cache/
+.trash/
+
+# Python environments and generated files
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local credentials and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/

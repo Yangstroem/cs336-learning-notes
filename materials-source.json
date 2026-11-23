@@ -1,0 +1,200 @@
+{
+  "course": "Stanford CS336 — Language Modeling from Scratch (Spring 2026)",
+  "course_url": "https://cs336.stanford.edu/",
+  "repository_url": "https://github.com/stanford-cs336/lectures",
+  "repository_commit": "de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e",
+  "downloaded_on": "2026-11-17",
+  "timezone": "Asia/Shanghai",
+  "verification": "Every local file matches its Git blob SHA-1 in the official repository snapshot.",
+  "files": [
+    {
+      "path": "lectures/README.md",
+      "bytes": 811,
+      "git_blob_sha1": "ec85abc7a259f21d6f17c6d177d92821dfec1106",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/README.md",
+      "download_url": "https://cs336.stanford.edu/lectures/README.md"
+    },
+    {
+      "path": "lectures/facts.py",
+      "bytes": 85,
+      "git_blob_sha1": "1f9f4c2b39c832066044399015c0363acac1a85e",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/facts.py",
+      "download_url": "https://cs336.stanford.edu/lectures/facts.py"
+    },
+    {
+      "path": "lectures/gpu_util.py",
+      "bytes": 560,
+      "git_blob_sha1": "c72eb815f99e9406afc830434e02af8aff5c699a",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/gpu_util.py",
+      "download_url": "https://cs336.stanford.edu/lectures/gpu_util.py"
+    },
+    {
+      "path": "lectures/lecture_01.py",
+      "bytes": 42672,
+      "git_blob_sha1": "b244cf007a7bff5339114e1dc0c5ced66bd61827",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_01.py",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_01.py"
+    },
+    {
+      "path": "lectures/lecture_02.py",
+      "bytes": 35396,
+      "git_blob_sha1": "38171e8cb9656e4086b3f166b3dd5ce8b5731321",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_02.py",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_02.py"
+    },
+    {
+      "path": "lectures/lecture_03.pdf",
+      "bytes": 5990936,
+      "git_blob_sha1": "742ae35a3738a58f176f7b76695d91d278676e1e",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_03.pdf",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_03.pdf"
+    },
+    {
+      "path": "lectures/lecture_04.pdf",
+      "bytes": 6500834,
+      "git_blob_sha1": "9324afef828dd22b63813702e6dc1c3246123648",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_04.pdf",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_04.pdf"
+    },
+    {
+      "path": "lectures/lecture_05.pdf",
+      "bytes": 5200951,
+      "git_blob_sha1": "b00f455706a07dff48f64a6420a5e2ad02b09515",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_05.pdf",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_05.pdf"
+    },
+    {
+      "path": "lectures/lecture_06.py",
+      "bytes": 31366,
+      "git_blob_sha1": "7576b2b2d2155320bd870fbd19eebb623662fa3e",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_06.py",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_06.py"
+    },
+    {
+      "path": "lectures/lecture_07.py",
+      "bytes": 26346,
+      "git_blob_sha1": "990339f384a92b5748501dfd306f8f2d2a57a8bf",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_07.py",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_07.py"
+    },
+    {
+      "path": "lectures/lecture_08.pdf",
+      "bytes": 6563256,
+      "git_blob_sha1": "a6cb76561a98fb88c38b8ad49dd7e374fba7c53f",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_08.pdf",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_08.pdf"
+    },
+    {
+      "path": "lectures/lecture_09.pdf",
+      "bytes": 6941146,
+      "git_blob_sha1": "9da2b5c15197c74e730b394faed6219dda4c532b",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_09.pdf",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_09.pdf"
+    },
+    {
+      "path": "lectures/lecture_10.py",
+      "bytes": 31289,
+      "git_blob_sha1": "9b86c271e2afd33d24da39eb0a39274847b23209",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_10.py",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_10.py"
+    },
+    {
+      "path": "lectures/lecture_11.pdf",
+      "bytes": 6702855,
+      "git_blob_sha1": "90ba54903d00faf1b043831443858ba717ef4232",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_11.pdf",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_11.pdf"
+    },
+    {
+      "path": "lectures/lecture_12.py",
+      "bytes": 21557,
+      "git_blob_sha1": "c98e21d4ee545914214bccb0b3da56d3c104ec14",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_12.py",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_12.py"
+    },
+    {
+      "path": "lectures/lecture_13.py",
+      "bytes": 33754,
+      "git_blob_sha1": "f92c4d4067c3d70ddeb0f664ddeafad61af4a7c5",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_13.py",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_13.py"
+    },
+    {
+      "path": "lectures/lecture_14.py",
+      "bytes": 24169,
+      "git_blob_sha1": "9a6c63b5509854fd4fab13fbba157df289e7aa7b",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_14.py",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_14.py"
+    },
+    {
+      "path": "lectures/lecture_15.pdf",
+      "bytes": 6395151,
+      "git_blob_sha1": "31ace8c6d1c704386557629d5bee0e0e22850dcd",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_15.pdf",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_15.pdf"
+    },
+    {
+      "path": "lectures/lecture_16.pdf",
+      "bytes": 6755659,
+      "git_blob_sha1": "0f24c2a0eeac06d105cabada4366cae3df43fc70",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_16.pdf",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_16.pdf"
+    },
+    {
+      "path": "lectures/lecture_17.py",
+      "bytes": 13890,
+      "git_blob_sha1": "879c3e8a454acdcc813ae3816ddd3c44c8cedd9d",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_17.py",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_17.py"
+    },
+    {
+      "path": "lectures/lecture_util.py",
+      "bytes": 364,
+      "git_blob_sha1": "6e5cdabae6d86bb8d66e1ee3c8629f0a15d11ce6",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/lecture_util.py",
+      "download_url": "https://cs336.stanford.edu/lectures/lecture_util.py"
+    },
+    {
+      "path": "lectures/pyproject.toml",
+      "bytes": 262,
+      "git_blob_sha1": "99f76edd287b39c403ac48c6a20bf2f7d92cec61",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/pyproject.toml",
+      "download_url": "https://cs336.stanford.edu/lectures/pyproject.toml"
+    },
+    {
+      "path": "lectures/references.py",
+      "bytes": 19009,
+      "git_blob_sha1": "679191f305641ea91140b043467e84d3ad2e4451",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/references.py",
+      "download_url": "https://cs336.stanford.edu/lectures/references.py"
+    },
+    {
+      "path": "lectures/uv.lock",
+      "bytes": 411479,
+      "git_blob_sha1": "fb4bf49ae81b9585e36dc4e83a1da6c7079cccf4",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/uv.lock",
+      "download_url": "https://cs336.stanford.edu/lectures/uv.lock"
+    },
+    {
+      "path": "lectures/var/traces/lecture_01.json",
+      "bytes": 1010365,
+      "git_blob_sha1": "ba664668ac8875d11ba8e203995cefcbd71bf169",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/var/traces/lecture_01.json",
+      "download_url": "https://cs336.stanford.edu/lectures/var/traces/lecture_01.json"
+    },
+    {
+      "path": "lectures/var/traces/lecture_02.json",
+      "bytes": 721816,
+      "git_blob_sha1": "f8fd90d3c832752ee2d26a0bce3f29f79937d749",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/var/traces/lecture_02.json",
+      "download_url": "https://cs336.stanford.edu/lectures/var/traces/lecture_02.json"
+    },
+    {
+      "path": "lectures/var/traces/lecture_02_recording.json",
+      "bytes": 767647,
+      "git_blob_sha1": "d5de83a7d1c15144d1aff7b0149957a8a9d372c2",
+      "source_url": "https://github.com/stanford-cs336/lectures/blob/de53a9f979a6ee35f7d13a5e1aadee5ea1afc58e/var/traces/lecture_02_recording.json",
+      "download_url": "https://cs336.stanford.edu/lectures/var/traces/lecture_02_recording.json"
+    }
+  ]
+}
